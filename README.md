@@ -1,5 +1,7 @@
 ### Hi there 👋
+![JaAlSaDev's github stats](https://github-readme-stats.vercel.app/api?username=JaAlSaDev&theme=algolia&show_icons=true&hide=stars,contribs,prs)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaAlSaDev&layout=compact&theme=algolia)
 <!--
 **JaAlSaDev/JaAlSaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
