@@ -4,4 +4,4 @@
 - 🔭 I’m currently working on a desktop application for work.
 - 🌱 I’m currently learning ElectronJS for work.
 - 💬 Ask me about the MERN stack and game development.
-- ⚡ Fun fact: I'm a huge Mega Man fan, and I love Capcom games. In my free time, you will find me playing old video games.
+- ⚡ Fun fact: I'm a huge Mega Man fan, and I love Capcom games. In my free time, you will find me playing retro video games.
